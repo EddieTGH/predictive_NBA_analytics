@@ -1,1 +1,1 @@
-# cs216_project
+# Predictive NBA Analytics
